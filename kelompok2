@@ -31,7 +31,7 @@ github:
 
     <script>
         // Topik harus persis sama dengan yang ditulis di kode Arduino ESP32
-        const topic = "kelompok_2/max3"; 
+        const topic = "kelompok_2/ds18b20"; 
 
         const tempSpan = document.getElementById('temp');
         const humSpan = document.getElementById('hum');
